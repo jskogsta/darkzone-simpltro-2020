@@ -2,8 +2,11 @@
 
 C64 intro released by [DarkZone](https://darkzone.no/) at [Syntax 2020](https://www.syntaxparty.org/) in Melbourne, Australia.
 
+![Screenshot](screenshot.jpg)
+
 - **Release on CSDB:** https://csdb.dk/release/?id=197960
 - **Run in browser:** https://jorgen.skogstad.com/8-16bit/simpltro/
+- **Download PRG:** [`release/dz_simpltro_syntax_2020_compressed.prg`](release/dz_simpltro_syntax_2020_compressed.prg)
 
 ## About
 
